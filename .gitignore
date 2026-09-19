@@ -16,3 +16,7 @@ backend/data/fitness.duckdb
 .diet_env
 .front_env
 .nicegui
+
+key.py
+
+main.py
